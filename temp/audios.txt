@@ -1,0 +1,8 @@
+temp/0.wav
+temp/2.wav
+temp/4.wav
+temp/6.wav
+temp/8.wav
+temp/10.wav
+temp/12.wav
+temp/14.wav

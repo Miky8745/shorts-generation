@@ -1,0 +1,6 @@
+{
+    "system_prompt": "Do NOT format messages using *, dots or anything else, use numbers instead. DO NOT USE ANY NAMES, instead of names, DESCRIBE THE THINGS. Note: The image generator does not process full sentences. Use only keywords or short phrases relevant to the image.",
+    "main_prompt" : "Hello, please generate me a short, FIVE PARAGRAPH, sad story with happy ending, that will get the listeners attention, and can be read in just under 1 minute. DO NOT GIVE IT A TITLE.",
+    "image_prompt" : "Hello, please generate exactly one image generation prompt for each paragraph of the following story. Do not include any explanations or extra text, just provide the prompts as plain sentences. Here is the story: ",
+    "title_prompt" : "Give this story a title, respond with only the title and nothing else"
+}
